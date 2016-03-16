@@ -1,0 +1,27 @@
+/*
+Theme Name: Hyde Park Paddington [1.2]
+Theme URI: 
+Author: Steve Ferrar
+Author URI: http://www.steveferrar.com
+Description: Theme for Hyde Park Paddington (2015) [1.2]
+Version: 1.0
+Tags: Custom Theme, Bootstrap, Boilerplate, Hyde Park Paddington, Tourist Agency, Steve Ferrar
+*/
+
+
+/* = Get Stylesheets
+-----------------------------------------------*/
+
+/* Bootstrap */
+@import url('css/bootstrap.min.css');
+
+/* Custom */
+@import url('css/nivo-lightbox.css');
+@import url('css/main.css');
+
+/* Fonts */
+@import url('http://fast.fonts.net/cssapi/d2399d9b-0db0-40ae-8685-cedd8c20b840.css');
+/*
+font-family:'DIN_1451 W01 Engschrift';
+font-family:'DIN1451W01-Mittelschrif';
+*/
